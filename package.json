@@ -3,9 +3,6 @@
   "homepage": "https://manjurul369.github.io/nike-shoe/",
   "version": "0.0.0",
   "type": "module",
-  "engines": {
-    "node": "20.x"
-  },
   "scripts": {
     "dev": "vite",
     "build": "npx vite build",
