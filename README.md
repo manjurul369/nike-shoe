@@ -44,8 +44,8 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/manjurul369/nike-shoe.git](https://github.com/manjurul369/nike-shoe.git)
+cd nike-shoe
 ```
 
 ### Installation
