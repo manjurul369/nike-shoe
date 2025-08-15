@@ -66,7 +66,25 @@ Open `http://localhost:5173` in your browser to view the project.
 
 ---
 
-## 📚 Contact Me
+## � Deployment
+
+### Vercel Deployment
+
+This project is optimized for deployment on Vercel:
+
+1. Push your code to GitHub
+2. Visit [vercel.com](https://vercel.com) and connect your GitHub repository
+3. Vercel will automatically detect it's a Vite React project
+4. Deploy with default settings (Build Command: `npm run build`, Output Directory: `dist`)
+
+The project includes:
+- `vercel.json` for proper SPA routing
+- Optimized Vite configuration for production
+- Node.js version specification (`.nvmrc`)
+
+---
+
+## �📚 Contact Me
 
 Feel free to reach out if you have any questions or would like to connect!
 
